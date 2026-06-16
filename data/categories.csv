@@ -1,0 +1,87 @@
+keyword,category
+trader joe,Groceries
+safeway,Groceries
+whole foods,Groceries
+costco,Groceries
+kroger,Groceries
+publix,Groceries
+aldi,Groceries
+walmart,Groceries
+wegmans,Groceries
+sprouts,Groceries
+thanksgiving groceries,Groceries
+chevron,Gas & Fuel
+shell,Gas & Fuel
+bp gas,Gas & Fuel
+exxon,Gas & Fuel
+mobil,Gas & Fuel
+arco,Gas & Fuel
+sunoco,Gas & Fuel
+netflix,Entertainment
+spotify,Entertainment
+hulu,Entertainment
+apple itunes,Entertainment
+disney+,Entertainment
+hbo,Entertainment
+amazon prime,Entertainment
+youtube,Entertainment
+starbucks,Dining
+chipotle,Dining
+mcdonald's,Dining
+panera,Dining
+doordash,Dining
+uber eats,Dining
+chick-fil-a,Dining
+taco bell,Dining
+subway,Dining
+pizza,Dining
+restaurant,Dining
+sushi,Dining
+holiday dinner,Dining
+valentine's dinner,Dining
+amazon,Shopping
+target,Shopping
+walmart,Shopping
+ebay,Shopping
+etsy,Shopping
+spring clothing,Shopping
+halloween costumes,Shopping
+black friday,Shopping
+christmas gifts,Shopping
+back to school,Shopping
+year end bonus,Income
+payroll,Income
+direct deposit,Income
+salary,Income
+bonus payment,Income
+interest income,Income
+freelance,Income
+pg&e,Utilities
+at&t,Utilities
+verizon,Utilities
+comcast,Utilities
+xfinity,Utilities
+electric,Utilities
+internet,Utilities
+water bill,Utilities
+rent,Housing
+mortgage,Housing
+home depot,Home & Garden
+lowe's,Home & Garden
+ikea,Home & Garden
+gym,Health & Fitness
+cvs,Health & Medical
+walgreens,Health & Medical
+pharmacy,Health & Medical
+doctor,Health & Medical
+dental,Health & Medical
+uber,Transportation
+lyft,Transportation
+bart,Transportation
+metro,Transportation
+parking,Transportation
+flight,Travel
+hotel,Travel
+airbnb,Travel
+vacation,Travel
+memorial day bbq,Food & Drink
