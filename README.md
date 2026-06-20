@@ -123,26 +123,3 @@ Outputs:
 Grades: **Excellent** (90–100) · **Good** (75–89) · **Fair** (60–74) · **Needs Improvement** (< 60)
 
 ---
-
-## 🛠 Tech Stack
-
-- **Streamlit** – dashboard UI
-- **Pandas / NumPy** – data processing
-- **Plotly** – interactive charts
-- **Statsmodels** – ARIMA, Exponential Smoothing
-- **Scikit-learn** – Linear Regression
-- **RapidFuzz** – fuzzy merchant matching
-- **OpenPyXL** – Excel export
-
----
-
-## 🔮 Future Improvements
-
-- PDF report export
-- Machine learning merchant categoriser (TF-IDF + logistic regression)
-- AI-generated financial insights via LLM API
-- Subscription / recurring bill auto-detection
-- Anomaly detection for unusual spending spikes
-- Multi-account / multi-currency support
-- Investment portfolio & net worth tracking
-- Password protection / multi-user support

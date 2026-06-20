@@ -91,7 +91,7 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
 }
 
 section[data-testid="stSidebar"] { background: #0A2342; }
-section[data-testid="stSidebar"] * { color: #ECF0F1 !important; }
+section[data-testid="stSidebar"] * { color: #A9A9A9 !important; }
 section[data-testid="stSidebar"] hr { border-color: #1B6CA8; }
 </style>
 """, unsafe_allow_html=True)
